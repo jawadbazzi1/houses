@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern House for Spatial.io
+* source:	https://sketchfab.com/3d-models/modern-house-for-spatialio-7aaddf8d076f4a6dbdcdfba0e615e602
+* author:	Cg Girls (https://sketchfab.com/bokeh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern House for Spatial.io" (https://sketchfab.com/3d-models/modern-house-for-spatialio-7aaddf8d076f4a6dbdcdfba0e615e602) by Cg Girls (https://sketchfab.com/bokeh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
