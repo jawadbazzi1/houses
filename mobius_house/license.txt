@@ -1,0 +1,11 @@
+Model Information:
+* title:	MOBIUS HOUSE
+* source:	https://sketchfab.com/3d-models/mobius-house-e9286d982bb445d7a0d82558160db0c1
+* author:	fantecboisseau (https://sketchfab.com/fantecboisseau)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MOBIUS HOUSE" (https://sketchfab.com/3d-models/mobius-house-e9286d982bb445d7a0d82558160db0c1) by fantecboisseau (https://sketchfab.com/fantecboisseau) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
