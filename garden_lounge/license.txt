@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garden Lounge
+* source:	https://sketchfab.com/3d-models/garden-lounge-cd2c67402ea8426c90d0fcebb0fa60b4
+* author:	scailman (https://sketchfab.com/scailman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garden Lounge" (https://sketchfab.com/3d-models/garden-lounge-cd2c67402ea8426c90d0fcebb0fa60b4) by scailman (https://sketchfab.com/scailman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
